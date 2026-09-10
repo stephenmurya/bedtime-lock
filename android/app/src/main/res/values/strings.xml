@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bedtime Lock</string>
+    <string name="bedtime_accessibility_description">Detects foreground apps and enforces your bedtime schedule.</string>
+</resources>
